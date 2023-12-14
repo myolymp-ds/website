@@ -1,5 +1,6 @@
 html,
 body {
+    height: 100%; /* for firefox, otherwise background repeats */
     margin: 0;
     padding: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
